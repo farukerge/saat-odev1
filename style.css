@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(to top, #283e51, #0a2342);
+  height: 100vh;
+}
+
+.text-box-1 {
+  text-align: center;
+  padding: 5rem;
+  margin-top: 3rem;
+  color: rgb(255, 255, 255);
+  font-size: 1.3rem;
+}
+
+.text-box-2 {
+  text-align: center;
+  padding: 5rem;
+  margin-top: 3rem;
+  color: rgb(255, 255, 255);
+  font-size: 1.3rem;
+}
+
+h1 {
+  padding: 2rem;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.1rem;
+}
+
+.clock {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 4.7rem;
+  color: #ffff;
+}
